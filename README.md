@@ -9,9 +9,9 @@ Touch the bar to start a new game. The first player who open the box will win th
 You need login to enable the ".call" features.
 
 ## FAQ
+
 - Q: How can I call other players command event?
-- A: You can type ".call <id>" to call other players function.
-  
+- A: You can type ".call <id>" to call other players function.  
 - Q: How can Icall a command event for a specific player?
 - A: You can also send ".pm <uuid> <msg>" to send private messages.
   
