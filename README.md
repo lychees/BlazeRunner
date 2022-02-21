@@ -9,7 +9,7 @@ A prototype game of EasyRPG Multiplayer.
 ## Gameplay
 Touch the bar to start a new game. The first player who open the box will win the game.
 
-You need login to enable the ".call" features.
+You need login to enable the ".call" feature
 
 ## FAQ
 
