@@ -12,7 +12,7 @@ You need login to enable the ".call" features.
 
 - Q: How can I call other players command event?
 - A: You can type ".call <id>" to call other players function.  
-- Q: How can Icall a command event for a specific player?
+- Q: How can I call a command event for a specific player?
 - A: You can also send ".pm <uuid> <msg>" to send private messages.
   
 ![image](https://user-images.githubusercontent.com/2507027/155032730-49db9bbe-e67a-45e2-8fb0-32f37172fedc.png)
