@@ -1,4 +1,4 @@
-# blazerunner
+# Blaze Runner
 
 A prototype game of EasyRPG Multiplayer.
 
